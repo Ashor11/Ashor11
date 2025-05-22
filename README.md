@@ -3,7 +3,7 @@
 
 <p align="center">
 
-  <img src="![as png make the background transparent](https://github.com/user-attachments/assets/1f35d962-1c03-4ee5-a7ec-20e1ae43064c)" alt="Ashour Yasser Abdelrhman" style="background: transparent"/>
+  <img src="https://github.com/user-attachments/assets/1f35d962-1c03-4ee5-a7ec-20e1ae43064c" alt="Ashour Yasser Abdelrhman" style="background: transparent"/>
 </p>
 
 ---
