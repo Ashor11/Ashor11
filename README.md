@@ -2,7 +2,8 @@
 <h3 align="center">DevOps and Cloud Engineer</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92c7d109-8225-427b-a161-561823b4f81e" alt="Ashour Yasser Abdelrhman" style="background: transparent"/>
+
+  <img src="![as png make the background transparent](https://github.com/user-attachments/assets/1f35d962-1c03-4ee5-a7ec-20e1ae43064c)" alt="Ashour Yasser Abdelrhman" style="background: transparent"/>
 </p>
 
 ---
